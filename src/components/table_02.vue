@@ -1,4 +1,5 @@
 <template>
+ <!-- 进行表格内容随着浏览器左右--样式修改 -->
   <div class="wrapper">
     <div class="left">
 

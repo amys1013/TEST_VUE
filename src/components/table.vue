@@ -1,4 +1,5 @@
  <template>
+ <!-- 进行表格上一行拖拽 -->
   <div>
     <el-table ref="dragTable" :data="tableData" style="width: 99%" highlight-current-row current-row-key>
       <el-table-column class="handle" type="index" label="索引" width="50">
